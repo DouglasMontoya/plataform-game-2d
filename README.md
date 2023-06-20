@@ -6,7 +6,7 @@ This game was created as a personal project to learn more about the **physics** 
 
 - Python 3.8 or higher
 
-## Facility
+## Installation
 
 To install the dependencies needed to run this game, follow these steps:
 
