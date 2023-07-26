@@ -1,33 +1,33 @@
-## About this project
+## Sobre este proyecto
 
-This game was created as a personal project to learn more about the **physics** and **mechanics** of 2D games. My goal in creating this game was to improve my skills in these areas and to share my work with others.
+Este juego fue creado como un proyecto personal para aprender más sobre la **física** y la **mecánica** de los juegos 2D. Mi objetivo al crear este juego era mejorar mis habilidades en estas áreas y compartir mi trabajo con los demás.
 
-## Requirements
+## Requisitos
 
-- Python 3.8 or higher
+- Python 3.8 o superior
 
-## Installation
+## Instalación
 
-To install the dependencies needed to run this game, follow these steps:
+Para instalar las dependencias necesarias para ejecutar este juego, siga estos pasos:
 
-1. Clone this repository to your computer.
-2. Open a terminal and navigate to the cloned repository directory.
-3. Run the `pip install -r requirements.txt` command to install the dependencies.
+1. Clone este repositorio en su computadora.
+2. Abra una terminal y navegue hasta el directorio del repositorio clonado.
+3. Ejecute el comando `pip install -r requirements.txt` para instalar las dependencias.
 
-Once you have completed these steps, you will be able to launch the game by following the instructions for use.
+Una vez que haya completado estos pasos, podrá iniciar el juego siguiendo las instrucciones 
 
-## Execution
+## Ejecución
 
-Once you have completed the installation steps, you will be able to launch the game by following these steps:
+Una vez que haya completado los pasos de instalación, podrá iniciar el juego siguiendo estos pasos:
 
-1. Open a terminal and navigate to the cloned repository directory.
-2. Run the `python main.py` command to start the game.
+Abra una terminal y navegue hasta el directorio del repositorio clonado.
+Ejecute el comando `python main.py` para iniciar el juego.
 
-Enjoy!
+¡Disfruta!
 
-## Controls
+## Controles
 
-- Left arrow: move to the left
-- Right arrow: move to the right
-- Arrow up: jump
-- N key: increase speed
+- Flecha izquierda: moverse a la izquierda
+- Flecha derecha: moverse a la derecha
+- Flecha arriba: saltar
+- Tecla N: aumentar la velocidad
